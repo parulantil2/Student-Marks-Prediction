@@ -14,13 +14,13 @@ A web-based application built using **Streamlit** to predict students' Math scor
 
 ---
 
+
 ## Installation 🛠️
 
-1. Clone the repository:
-
+To install the required dependencies, run:
 ```bash
-git clone https://github.com/parulantil2/Student-Marks-Prediction.git
-cd Student-Marks-Prediction
+pip install -r requirements.txt
+```
 
 ## To run Application 🛠🚀
 ```bash
